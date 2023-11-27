@@ -39,7 +39,7 @@ Test_Image 1        |  Test_Image 2
 
 
 ### Test Outputs
-![Image 1](https://github.com/Govind-Bodhireddy/Neural_style_transfer_22EE65R25/blob/main/Sample_Images/stylized_Images/2_res.png)| ![Image 2](https://github.com/Govind-Bodhireddy/Neural_style_transfer_22EE65R25/blob/main/Sample_Images/stylized_Images/1_res.png) | 
+![Image 1](https://github.com/Govind-Bodhireddy/Neural_style_transfer_22EE65R25/blob/main/Sample_Images/stylized_Images/1_res.png)| ![Image 2](https://github.com/Govind-Bodhireddy/Neural_style_transfer_22EE65R25/blob/main/Sample_Images/stylized_Images/2_res.png) | 
 :-------------------------:|:-------------------------:
 Stylized_Image 1        |  Stylized_Image 2        
 
