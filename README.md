@@ -32,10 +32,11 @@ This dataset contains images created using neural style transfer techniques. [Ex
 
 
 ### Test Input
-1. Image_1
-   ![Alt Text](https://github.com/Govind-Bodhireddy/Neural_style_transfer_22EE65R25/blob/main/Sample_Images/content_Image/1_raw.png)
-2.Image_2
-    ![Alt Text](https://github.com/Govind-Bodhireddy/Neural_style_transfer_22EE65R25/blob/main/Sample_Images/content_Image/2_raw.png)
+![Image 1](https://github.com/Govind-Bodhireddy/Neural_style_transfer_22EE65R25/blob/main/Sample_Images/content_Image/1_raw.png) | ![Image 2](https://github.com/Govind-Bodhireddy/Neural_style_transfer_22EE65R25/blob/main/Sample_Images/content_Image/2_raw.png) | 
+:-------------------------:|:-------------------------:
+Test_Image 1        |  Test_Image 2        
+
+
 
 ### Test Outputs
 
